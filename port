@@ -1,0 +1,7 @@
+my-portfolio/
+├─ index.html
+├─ images/
+│  ├─ air-ventilator.jpg
+│  └─ plastic-distillation.jpg
+├─ videos/
+│  └─ cnc-programming.mp4
